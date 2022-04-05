@@ -1,0 +1,42 @@
+.jumbotron {
+  padding: 60px 30px 60px 30px;
+  margin: 0px auto;
+  background: #9575cd;
+  color: floralwhite;
+}
+.row-header {
+  margin: 0px auto;
+  padding: 0px;
+}
+.about {
+  padding: 0 100px;
+}
+.line-about {
+  margin: 0 82px;
+}
+.row-content {
+  margin: 0px auto;
+  padding: 50px 100px;
+}
+
+.footer {
+  background-color: #d1c4e9;
+  margin: 0px auto;
+  padding: 20px 0px 20px 0px;
+}
+
+body {
+  padding: 50px 0px 0px 0px;
+  z-index: 0;
+}
+
+.navbar {
+  background-color: #512da8;
+}
+
+.tab-content {
+  border-left: 1px solid #ddd;
+  border-right: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  padding: 10px;
+}
